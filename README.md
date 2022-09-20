@@ -1,1 +1,2 @@
 # kodluyoruzilkrepo
+www.patika.dev
